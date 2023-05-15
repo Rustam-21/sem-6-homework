@@ -1,0 +1,15 @@
+D:\study\gb-hw-sem-6\task43\bin\Debug\net7.0\task43.exe
+D:\study\gb-hw-sem-6\task43\bin\Debug\net7.0\task43.deps.json
+D:\study\gb-hw-sem-6\task43\bin\Debug\net7.0\task43.runtimeconfig.json
+D:\study\gb-hw-sem-6\task43\bin\Debug\net7.0\task43.dll
+D:\study\gb-hw-sem-6\task43\bin\Debug\net7.0\task43.pdb
+D:\study\gb-hw-sem-6\task43\obj\Debug\net7.0\task43.csproj.AssemblyReference.cache
+D:\study\gb-hw-sem-6\task43\obj\Debug\net7.0\task43.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\gb-hw-sem-6\task43\obj\Debug\net7.0\task43.AssemblyInfoInputs.cache
+D:\study\gb-hw-sem-6\task43\obj\Debug\net7.0\task43.AssemblyInfo.cs
+D:\study\gb-hw-sem-6\task43\obj\Debug\net7.0\task43.csproj.CoreCompileInputs.cache
+D:\study\gb-hw-sem-6\task43\obj\Debug\net7.0\task43.dll
+D:\study\gb-hw-sem-6\task43\obj\Debug\net7.0\refint\task43.dll
+D:\study\gb-hw-sem-6\task43\obj\Debug\net7.0\task43.pdb
+D:\study\gb-hw-sem-6\task43\obj\Debug\net7.0\task43.genruntimeconfig.cache
+D:\study\gb-hw-sem-6\task43\obj\Debug\net7.0\ref\task43.dll
